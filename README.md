@@ -4,7 +4,7 @@ I am a driven and adaptable professional passionate about leveraging cutting-edg
 
 I studied B.Tech in Computer Science & Engineering at the [Kalinga Institute of Industrial Technology](https://kiit.ac.in/). Currently, I am learning Rust for Bitcoin and Lightning development.
 
-I am excited to connect with like-minded professionals, collaborate on innovative projects, and continue my personal and professional growth journey. You can take a look at my [LinkedIn](www.linkedin.com/in/tiagontalani). Let's connect and explore opportunities to create meaningful change together.
+I am excited to connect with like-minded professionals, collaborate on innovative projects, and continue my personal and professional growth journey. Let's connect and explore opportunities to create meaningful change together.
 
 
 ## 🌐 Socials:
